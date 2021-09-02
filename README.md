@@ -36,10 +36,3 @@ class About extends Me
 }
 ```
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahTarabish&show_icons=true&theme=radical) 
-<br>
-<hr>
-
-<p  align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdallahTarabish&label=Visitors" alt="visitor badge"/>       
-</p>
