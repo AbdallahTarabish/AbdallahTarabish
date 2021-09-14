@@ -35,5 +35,3 @@ class About extends Me
     }
 }
 ```
-
-https://github-readme-stats.vercel.app/api?username=AbdallahTarabish&show_icons=true&theme=dracula&count_private=true
