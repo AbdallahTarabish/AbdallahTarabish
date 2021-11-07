@@ -26,6 +26,8 @@ class About extends Me
             JQuery::class,
             Ajax::class,
             RestApi::class,
+            React::class,
+            Graphql::class
         ];
     }
 
