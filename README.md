@@ -38,6 +38,3 @@ class About extends Me
 }
 ```
 
-## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
-<img src="https://activity-graph.herokuapp.com/graph?username=AbdallahTarabish&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
