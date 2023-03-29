@@ -9,8 +9,18 @@ class About extends Me
     {
         return [
             'workplace' => [
+               [ 
                 'company' => 'Atyaf Co',
-                'position' => 'Backend Developer'         
+                'position' => 'Backend Developer'  
+              ] ,
+              [  
+                "compnay"=>"ICT Solutions Co",
+                "position"=>"Full Stack Developer"   
+              ],   
+              [
+               "company"=>"Ministry Of Finance" ,
+               "position"=>"Devops Engineer"   
+              ]   
             ]
         ];
     }
@@ -27,7 +37,13 @@ class About extends Me
             Ajax::class,
             RestApi::class,
             React::class,
-            Graphql::class
+            Graphql::class,
+            Apache::class,
+            Nginx::class,
+            Zabbix::class,
+            Docker::class , 
+            Wso2::class ,
+            
         ];
     }
 
