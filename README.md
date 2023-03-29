@@ -43,6 +43,7 @@ class About extends Me
             Zabbix::class,
             Docker::class , 
             Wso2::class ,
+            Vuejs::class
             
         ];
     }
