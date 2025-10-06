@@ -14,12 +14,12 @@ class About extends Me
                 'position' => 'Backend Developer'  
               ] ,
               [  
-                "compnay"=>"ICT Solutions Co",
+                "compnay"=>"Osarh For E-learning",
                 "position"=>"Full Stack Developer"   
               ],   
               [
-               "company"=>"Ministry Of Finance" ,
-               "position"=>"Devops Engineer"   
+               "company"=>"Talents Journey" ,
+               "position"=>"Team Lead"   
               ]   
             ]
         ];
